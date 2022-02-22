@@ -12,7 +12,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 import java.io.IOException;
 
-public class BrokenImage {
+public class _02BrokenImage {
     public static void main(String[] args) throws IOException {
         System.setProperty("webdriver.chrome.driver", "C:\\SELENIUM\\chromeDriver\\chromedriver.exe");
         WebDriver driver = new ChromeDriver();

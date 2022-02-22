@@ -14,7 +14,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import java.io.IOException;
 import java.util.Locale;
 
-public class BrokenLinks {
+public class _03BrokenLinks {
 
 
     public static void main(String[] args) throws IOException {

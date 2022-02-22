@@ -9,7 +9,7 @@ import java.net.HttpURLConnection;
 import java.net.URL;
 import java.util.List;
 
-public class BrokenLinkList {
+public class _01BrokenLinkList {
     public static void main(String[] args) throws InterruptedException {
         System.setProperty("webdriver.chrome.driver", "C:\\SELENIUM\\chromeDriver\\chromedriver.exe");
         WebDriver driver = new ChromeDriver();
